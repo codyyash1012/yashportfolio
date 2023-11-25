@@ -511,7 +511,7 @@ h6 { font-size: 16px; }
 	clear: both;
 	float: left;
 }
-.foliox_tm_button a{
+.foliox_tm_button button{
 	font-family: var(--font-family-extra);
 	color: #fff;
 	display: inline-block;
